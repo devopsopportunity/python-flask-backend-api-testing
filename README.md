@@ -1,6 +1,3 @@
-### python-flask-backend-api-testing
-python-flask-backend-api-testing is a repository containing Backend API code developed in Python using Flask framework. It includes comprehensive Testing scripts for API endpoints validation and verification
-
 # Welcome to Python Flask Backend API Testing!
 
 This repository contains backend API code developed in Python using the Flask framework, along with comprehensive testing scripts to validate and verify API endpoints.
